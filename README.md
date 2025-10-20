@@ -29,7 +29,7 @@ The input to the Q-Network is of shape 4 x 84 x 84, i.e four 84 * 84 greyscale i
 | Replay Buffer | 1,000,000 |
 | Batch Size | 32 |
 | Learning Rate | 2.5e-4 |
-| Optimizer | RMSProp (α=0.95, ε=0.01) |
+| Optimiser | RMSProp (α=0.95, ε=0.01) |
 | Discount (γ) | 0.99 |
 | ε-greedy Schedule | 1.0 → 0.1 over 1M frames |
 | Target Network Update | every 10,000 steps |
