@@ -38,8 +38,8 @@ The input to the Q-Network is of shape 4 x 84 x 84, i.e four 84 * 84 greyscale i
 
 ## Results Summary
 <p>
-  <img width="490" alt="image" src="https://github.com/user-attachments/assets/68a1a97a-0f2f-4f08-bf09-209d9ca9e6ac" />
-  <img width="490" alt="image" src="https://github.com/user-attachments/assets/97c9b9c4-88fb-43a8-b0c5-4e8b9c58abc5" />
+  <img width="470" alt="image" src="https://github.com/user-attachments/assets/68a1a97a-0f2f-4f08-bf09-209d9ca9e6ac" />
+  <img width="470" alt="image" src="https://github.com/user-attachments/assets/97c9b9c4-88fb-43a8-b0c5-4e8b9c58abc5" />
 </p>
 
 - DDQN shows smoother convergence and higher average rewards.
